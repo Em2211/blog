@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Mahima's blog!"
 date:   2025-07-27 15:58:49 +0530
 categories: jekyll update
 ---
